@@ -3,7 +3,7 @@ Custom whitelists/blacklist for Adams skynet Firewall https://github.com/Adamm00
 
 
 via terminal:
-usage: ( firewall import blacklist file.txt "Apples" ) 
+usage: ( firewall import blacklist file.txt "Cyclops" ) 
 
 or 
 "firewall banmalware https://raw.githubusercontent.com/fariajose/skynet/main/Cyclops-Blink-CC-servers.txt"
